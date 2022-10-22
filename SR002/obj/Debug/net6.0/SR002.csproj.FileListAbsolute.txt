@@ -1,0 +1,15 @@
+E:\Slava\Учеба\Seminar\SR002\bin\Debug\net6.0\SR002.exe
+E:\Slava\Учеба\Seminar\SR002\bin\Debug\net6.0\SR002.deps.json
+E:\Slava\Учеба\Seminar\SR002\bin\Debug\net6.0\SR002.runtimeconfig.json
+E:\Slava\Учеба\Seminar\SR002\bin\Debug\net6.0\SR002.dll
+E:\Slava\Учеба\Seminar\SR002\bin\Debug\net6.0\SR002.pdb
+E:\Slava\Учеба\Seminar\SR002\obj\Debug\net6.0\SR002.csproj.AssemblyReference.cache
+E:\Slava\Учеба\Seminar\SR002\obj\Debug\net6.0\SR002.GeneratedMSBuildEditorConfig.editorconfig
+E:\Slava\Учеба\Seminar\SR002\obj\Debug\net6.0\SR002.AssemblyInfoInputs.cache
+E:\Slava\Учеба\Seminar\SR002\obj\Debug\net6.0\SR002.AssemblyInfo.cs
+E:\Slava\Учеба\Seminar\SR002\obj\Debug\net6.0\SR002.csproj.CoreCompileInputs.cache
+E:\Slava\Учеба\Seminar\SR002\obj\Debug\net6.0\SR002.dll
+E:\Slava\Учеба\Seminar\SR002\obj\Debug\net6.0\refint\SR002.dll
+E:\Slava\Учеба\Seminar\SR002\obj\Debug\net6.0\SR002.pdb
+E:\Slava\Учеба\Seminar\SR002\obj\Debug\net6.0\SR002.genruntimeconfig.cache
+E:\Slava\Учеба\Seminar\SR002\obj\Debug\net6.0\ref\SR002.dll
